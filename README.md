@@ -44,3 +44,16 @@
   |상품 별 오프라인 매출 구하기|Lv. 2|SQL|84%|
 
 </details>
+
+<details>
+  <summary>2023/06/01</summary>
+ 
+  |문제|난이도|유형|정답률|
+  |---|---|---|---|
+  |최댓값과 최솟값|Lv. 2|Python|79%|
+  |JadenCase 문자열 만들기|Lv. 2|Python|77%|
+  |올바른 괄호|Lv. 2|Python|76%|
+  |최솟값 만들기|Lv. 2|Python|76%|
+  |이진 변환 반복하기|Lv. 2|Python|76%|
+
+</details>
