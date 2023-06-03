@@ -57,3 +57,16 @@
   |이진 변환 반복하기|Lv. 2|Python|76%|
 
 </details>
+
+<details>
+  <summary>2023/06/03</summary>
+ 
+  |문제|난이도|유형|정답률|
+  |---|---|---|---|
+  |숫자의 표현|Lv. 2|Python|74%|
+  |다음 큰 숫자|Lv. 2|Python|72%|
+  |피보나치 수|Lv. 2|Python|72%|
+  |짝지어 제거하기|Lv. 2|Python|70%|
+  |영어 끝말잇기|Lv. 2|Python|70%|
+
+</details>
