@@ -69,4 +69,17 @@
   |짝지어 제거하기|Lv. 2|Python|70%|
   |영어 끝말잇기|Lv. 2|Python|70%|
 
+</details
+>
+<details>
+  <summary>2023/06/10</summary>
+ 
+  |문제|난이도|유형|정답률|
+  |---|---|---|---|
+  |카펫|Lv. 2|Python|70%|
+  |구명보트|Lv. 2|Python|68%|
+  |예상 대진표|Lv. 2|Python|68%|
+  |점프와 순간 이동|Lv. 2|Python|67%|
+  |N개의 최소공배수|Lv. 2|Python|67%|
+
 </details>
