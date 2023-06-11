@@ -69,8 +69,8 @@
   |짝지어 제거하기|Lv. 2|Python|70%|
   |영어 끝말잇기|Lv. 2|Python|70%|
 
-</details
->
+</details>
+
 <details>
   <summary>2023/06/10</summary>
  
@@ -81,5 +81,18 @@
   |예상 대진표|Lv. 2|Python|68%|
   |점프와 순간 이동|Lv. 2|Python|67%|
   |N개의 최소공배수|Lv. 2|Python|67%|
+
+</details>
+
+<details>
+  <summary>2023/06/11</summary>
+ 
+  |문제|난이도|유형|정답률|
+  |---|---|---|---|
+  |멀리 뛰기|Lv. 2|Python|67%|
+  |귤 고르기|Lv. 2|Python|65%|
+  |괄호 회전하기|Lv. 2|Python|63%|
+  |H-Index|Lv. 2|Python|63%|
+  |연속 부분 수열 합의 개수|Lv. 2|Python|63%|
 
 </details>
