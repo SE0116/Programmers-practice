@@ -96,3 +96,16 @@
   |연속 부분 수열 합의 개수|Lv. 2|Python|63%|
 
 </details>
+
+<details>
+  <summary>2023/06/13</summary>
+ 
+  |문제|난이도|유형|정답률|
+  |---|---|---|---|
+  |n^2 배열 자르기|Lv. 2|Python|62%|
+  |행렬의 곱셈|Lv. 2|Python|62%|
+  |[1차] 캐시|Lv. 2|Python|62%|
+  |의상|Lv. 2|Python|62%|
+  |튜플|Lv. 2|Python|62%|
+
+</details>
